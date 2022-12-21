@@ -22,3 +22,6 @@ https://github.com/MIT-LCP/wfdb-python/blob/main/demo.ipynb
 
 ## Some materials and questions about datasets (need to consider)
 https://docs.google.com/document/d/1xXC9Xx7qPqBOLbRrFt79nSMc_GW4Kyby2sCvp0wVAFc/edit
+
+## Sample of respiration processing
+https://github.com/catiamcepeda/Respiration-Guide
