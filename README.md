@@ -25,3 +25,6 @@ https://docs.google.com/document/d/1xXC9Xx7qPqBOLbRrFt79nSMc_GW4Kyby2sCvp0wVAFc/
 
 ## Sample of respiration processing
 https://github.com/catiamcepeda/Respiration-Guide
+
+## Sample of research using the same dataset
+https://ieeexplore.ieee.org/document/7756310
