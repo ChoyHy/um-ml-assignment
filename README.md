@@ -28,3 +28,6 @@ https://github.com/catiamcepeda/Respiration-Guide
 
 ## Sample of research using the same dataset
 https://ieeexplore.ieee.org/document/7756310
+
+## Estimating heart rate using respiratory data (pulse oximeters)
+https://ncbi.nlm.nih.gov/pmc/articles/PMC1478836/pdf/brjsmed00027-0052.pdf
