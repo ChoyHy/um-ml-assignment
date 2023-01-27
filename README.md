@@ -2,9 +2,14 @@
 ## Preparation for Anaconda
 
 #Create New Conda environment with needed libraries#
-conda create -n um-ml-1 -c intel python=3.9 numpy pandas jupyter scipy matplotlib xlrd scikit-learn scikit-learn-intelex
+conda create -n um-ml-1 python=3.9 intelpython3_full numpy pandas jupyter scipy matplotlib xlrd scikit-learn scikit-learn-intelex -c intel
 
-conda install -c conda-forge wfdb
+conda install -c conda-forge wfdb pyarrow
+
+#Create New Conda environment with file
+conda env create -f .\environments.yml
+conda activate um-ml-1
+jupyter notebook
 
 # Assignment
 
